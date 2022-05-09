@@ -1,0 +1,8 @@
+=========================entry config===============================
+kp:1.5
+ki:0.0
+kd:10.0
+integrator_saturation_high:0.6
+integrator_saturation_low:-0.6
+output_saturation_high:3.0
+output_saturation_low:-3.0

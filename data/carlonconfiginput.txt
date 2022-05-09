@@ -1,0 +1,24 @@
+=========================entry config===============================
+simulation step:0.00125
+========================vehicle config==============================
+vehicle mass:2000.0
+wheel radius:0.3
+=========================diver config===============================
+transmission ratio:3.0
+final driver ratio:4.0
+mechanical efficiency:0.95
+a0:400.0
+a1:0.1
+a2:-0.0002
+====================rolling resistance config=======================
+rolling resistance ratio:0.012
+======================air resistance config=========================
+air resistance coefficient:0.31
+air density:1.2258
+windward aera:1.55
+=====================slope resistance config========================
+slope angle:0.0
+==================acceleration resistance config====================
+conversion coefficient of vehicle rotating mass:1.2
+=========================braking config=============================
+braking coefficient:0.39

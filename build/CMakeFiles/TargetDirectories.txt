@@ -1,0 +1,3 @@
+/home/ymm/mycode/autopilot/build/CMakeFiles/edit_cache.dir
+/home/ymm/mycode/autopilot/build/CMakeFiles/rebuild_cache.dir
+/home/ymm/mycode/autopilot/build/CMakeFiles/autopilot.dir
